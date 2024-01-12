@@ -1,5 +1,9 @@
 ### Hi there 👋
+huge welcome to visit my page!
 
+- :school_satchel: I’m currently learning ... *SW*, *python* in SSAFY
+- :blue_heart: I love ... *writing*, *swimming*, *my dog*:paw_prints:, *holidays*, *sweet things*:cake:
+- :sparkles: What inspires me is ... *Someone really passionate*, *Kind one*
 <!--
 **DanpoongE/DanpoongE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
